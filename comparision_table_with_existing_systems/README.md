@@ -41,5 +41,5 @@
 | 32                          | Cloud dashboard (web)                        | ⚠️            | ⚠️                   | ❌               | ❌                 | ⚠️                   | ✅               | ❌            | ⚠️             |
 | 33                          | Offline emergency support                    | ❌             | ✅                    | ⚠️              | ⚠️                | ✅                    | ❌               | ❌            | ✅              |
 | **PRIVACY & COMPLIANCE**    |                                              |               |                      |                 |                   |                      |                 |              |                |
-| 34                          | HIPAA / medical compliance                   | ❌             | ✅                    | ✅               | ✅                 | ✅                    | ✅               | ❌            | ✅              |
+| 34                          | HIPAA / medical compliance                   |✅            | ✅                    | ✅               | ✅                 | ✅                    | ✅               | ❌            | ✅              |
 | 35                          | Encrypted medical data storage               | ❌            | ✅                    | ✅               | ✅                 | ✅                    | ✅               | ❌            | ✅              |
